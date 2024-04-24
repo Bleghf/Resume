@@ -1,0 +1,23 @@
+
+    h2{
+        font-weight:bold;
+    }
+#education,#education{
+    display:inline-block;
+}
+#info{
+    background-color:darkslateblue;
+    color:white;
+    border-style:solid;
+    border-width:thick;
+    border-color:black;
+h1{
+    font-family:Trebuchet MS;
+    text-shadow: 2px 2px blue;
+}
+    
+li:hover{
+    font-size:100px;
+    font-family:impact;
+}
+}
